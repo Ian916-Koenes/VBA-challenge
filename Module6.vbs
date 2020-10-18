@@ -1,3 +1,6 @@
+ '“How To Run The Same Macro On Multiple Worksheets At Same Time In Excel?” How to Run the Same 
+'Macro on Multiple Worksheets at Same Time in Excel?, 1 Aug. 1969, www.extendoffice.com/documents/excel/5333-excel-run-macro-multiple-sheets.html."
+
 Attribute VB_Name = "Module6"
 
 Sub Run_Ticker_Name()
